@@ -9,3 +9,14 @@
 Linux, Docker & Kubernetes, React.js, GraphQL, SQL, Mongo, Emacs & more. Anything tech.
 
 ## [Join our community by signing up for our newsletter!](https://truthseekers.io/latest-tutorials-signup/)
+
+### instructions
+
+npm install in ui/ and server/
+
+nodemon index.js (in server)
+
+npm start (in ui)
+
+open dev tools to see custom error message being logged in client (that is passed from the server).
+error displays in the App component.
